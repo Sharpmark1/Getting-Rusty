@@ -3,7 +3,6 @@
 This repository is a sandbox for experimenting with Rust 
 
 ## Contents
-- Captain Comet NFT 🦸‍♂️
 - Simple Student Data
 - More coming soon... 👌
 
