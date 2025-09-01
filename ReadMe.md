@@ -1,6 +1,6 @@
 # Getting Rusty 🦀
 
-This repository is a sandbox for experimenting Rust 
+This repository is a sandbox for experimenting with Rust 
 
 ## Contents
 - Simple Student Data
