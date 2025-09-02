@@ -58,6 +58,6 @@ fn main() {
     library.add_book(book2);
     library.add_book(book3);
 
-    // TODO: print all books
+    // Print all books
     library.print_books();
 }
