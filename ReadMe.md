@@ -3,6 +3,7 @@
 This repository is a sandbox for experimenting with Rust 
 
 ## Contents
+- Simple Book Library 📚
 - Simple Student Data
 - More coming soon... 👌
 
